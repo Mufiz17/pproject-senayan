@@ -11,7 +11,7 @@ import { Navbar } from "@/components/navbar";
 
 export const metadata: Metadata = {
   title: {
-    default: siteConfig.name,
+    default: "Management Register",
     template: `%s - ${siteConfig.name}`,
   },
   description: siteConfig.description,
